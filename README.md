@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on PayrollMIS, CompAgeERP, <br>Also known for PublicAPIs, PhonesNLaptops, Minesweeper, FreeSureBetTips, 
+As a seasoned professional with five years of experience, I have honed my skills in several different areas of technology. Specifically, I specialize in cloud engineering, web development, and data science. Whether it's creating scalable and secure cloud infrastructures, building responsive and user-friendly websites, or conducting complex data analyses, I take pride in delivering high-quality solutions that meet the needs of my clients. With a strong foundation in computer science and a passion for innovation, I am always looking for new challenges and opportunities to grow as a professional. 
 
 
 ## 🌐 Socials:
