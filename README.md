@@ -20,7 +20,7 @@
 <!-- About Me -->
 <h2>🌟 About Me</h2>
 <p>
-  I am a graduating student of the ALX Software Engineering Program. This journey has ignited my passion for creating efficient, scalable, and user-centric software solutions. I'm proficient in languages and frameworks such as Python, JavaScript, PHP, MySQL, C++, C, and AWS cloud services. I have independently spearheaded and developed several full-stack projects, including the SeedInsight application, Elcent Realtors Web MIS, and numerous digital solutions for Kenya Seed Company Ltd.
+  Hi, I'm Charles Mwaniki, a dedicated software engineer with a passion for crafting scalable, efficient, and user-focused solutions. Proficient in Python, JavaScript, PHP, C++, and cloud services (AWS), I've built and led full-stack projects like SeedInsight and Elcent Realtors Web MIS. With experience in backend development, data pipelines, and dynamic web applications, I thrive on solving complex challenges and am always eager to learn and collaborate. Let’s build something impactful together!
 </p>
 
 <!-- Skills Section -->
