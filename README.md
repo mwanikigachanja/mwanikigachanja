@@ -11,7 +11,7 @@
 
 ---
 
-<!-- Tech badges (visual impact) -->
+<!-- Tech badges -->
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,7 +40,7 @@ Lead Software Engineer building resilient, production-grade web and AI systems. 
 
 ---
 
-## 🧰 Finalized Skill Set (rich & strategic)
+## 🧰 Skill Set 
 **Languages & Paradigms:**
 - Python · JavaScript (ES6+) · PHP · SQL · asynchronous & event-driven patterns
 
@@ -97,7 +97,7 @@ Skilled in building context-aware developer flows: context injection, prompt lin
 
 ---
 
-## 🏷️ Projects (lead roles — balanced)
+## 🏷️ Projects (lead roles)
 Below are the core projects I’ve led or continue to maintain. Each project includes a brief purpose statement and core stack.
 
 - **SeedInsight (v0-revamp)** — Real-time, location-aware planting guide combining AI with climate & elevation data to recommend crop varieties by altitude zone.  
