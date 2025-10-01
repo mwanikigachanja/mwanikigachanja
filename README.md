@@ -156,11 +156,4 @@ Open to collaborations, contract roles, and advisory work in cloud-native engine
 
 ---
 
-## 🛠️ Profile Recommendations
-- Pin these repos to your profile for immediate visibility.  
-- Add demo GIFs/screenshots + Quickstart to pinned project READMEs.  
-- Add CONTRIBUTING.md and SECURITY.md to repos you want external collaboration on.
-
----
-
 <em>“Not your ordinary fellow — a systems builder, resilient learner, and innovator of possibilities.”</em>
