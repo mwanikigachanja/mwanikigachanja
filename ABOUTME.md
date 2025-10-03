@@ -51,28 +51,38 @@ SeedInsight (prototype + revamp), Diocese MIS, KCNA Prep App, CallDesk, Ambitiou
 
 ## Technical Expertise (Detailed)
 ### Languages & Paradigms
-Python, JavaScript (ES6+), PHP, SQL; asynchronous/event-driven programming and modern JS ecosystem patterns.
+Python · JavaScript (ES6+) · PHP · SQL · async/event-driven programming
 
 ### Backend & APIs
-Django (DRF), Node.js / Express, serverless functions and edge handlers. API orchestration, webhook handlers, rate-limit/retry logic, and caching strategies.
+Django (DRF) · Node.js / Express · REST/JSON APIs · serverless functions & edge handlers  
+API orchestration: rate-limits, caching, retries, webhook/event-driven pipelines
 
 ### Frontend & UX
-React, Next.js, SSR/SSG, responsive design, progressive enhancement, maps/visualisations for geospatial data.
+React · Next.js · Tailwind · Responsive design · Progressive enhancement for low-bandwidth users  
+Data visualization & UI prototyping for AI-driven interfaces
 
 ### Datastores & Modeling
-PostgreSQL, MySQL/MariaDB, schema design for temporal/spatial data, migrations, performance tuning.
+PostgreSQL · MySQL/MariaDB · schema design for geospatial & temporal datasets
 
 ### Cloud, Infra & Ops
-Kubernetes (KCNA), Docker, AWS, Vercel. CI/CD (GitHub Actions), observability (metrics/logs/traces), automated backups and monitoring.
+Kubernetes (KCNA) · Docker · AWS Cloud Practitioner · Vercel · GitHub Actions CI/CD  
+Linux servers, Nginx, Gunicorn · Monitoring, observability, backup & recovery strategies
 
-### AI & Data Integration
-Prompt engineering, schema-aware AI interactions, API-aware client generation, automated test generation, AI-assisted refactors.
+### AI & Intelligent Systems
+- **Prompt Engineering & Context Management:** schema-aware prompts, rule files, context anchors  
+- **AI Agents & Automation:** Lindy (agent building), Trae, Cursor, Cursor CLI, Gemini CLI, Supabase CLI  
+- **AI-Enhanced Dev Productivity:** GitHub Copilot (agent, chat, inline), Zed, CodeRabbit for PRs  
+- **Content & Generative AI Tools:** v0/Stitch for MVP building, Groq + Ollama for note-taking (Obsidian integration)  
+- **Generative Media & UX:** deepfakes & live portraits, hyperrealism, generative UI, AI-driven video & graphics workflows  
+- **Applied AI for Business & Productivity:** workflow automation, AI-powered research assistants, proposal generation, marketing content creation
 
 ### Geospatial & Environmental Engineering
-Altitude-zoning algorithms, geolocation + elevation pipelines, OpenWeatherMap + Open-Meteo integrations, translating R&D rules into operational recommendations.
+- Location, climate & elevation parsing  
+- Altitude zoning algorithms for crop suitability  
+- Integration with OpenWeatherMap, Open-Meteo for real-time agronomic advisory
 
-### Security & Reliability
-Secret management, API key handling, privacy-aware location flows, offline strategies, contract tests for external APIs.
+### Other
+SEO & digital marketing · Adobe Creative Suite · Technical customer support & solution design
 
 ---
 
